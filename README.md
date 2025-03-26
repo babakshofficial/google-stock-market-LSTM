@@ -62,6 +62,10 @@ To run these notebooks on your local machine, follow the steps below:
 
 The notebooks are designed to fetch Google's stock price data using the Yahoo Finance API. Ensure you have an active internet connection when running the notebooks to allow data retrieval.
 
+Alternatively, you can download the dataset manually from Kaggle:
+
+[Google Stock Market Data](https://www.kaggle.com/datasets/babaksh/googlestock/versions/2)
+
 ## Dependencies
 
 The primary dependencies for these notebooks include:
@@ -80,10 +84,6 @@ These packages can be installed using the `pip install` command as demonstrated 
 ## Contributing
 
 Contributions to enhance the functionality or accuracy of the models are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 
