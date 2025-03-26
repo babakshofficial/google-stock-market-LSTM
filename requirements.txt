@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+numpy
+pandas
+yfinance
+matplotlib
+plotly
+scikit-learn
+jupyter
+ipython
